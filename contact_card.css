@@ -34,7 +34,7 @@ div{
 #cards *{
   text-align: center;
 }
-#cards div,#cards p{
+#cards div{
   margin: 25px 0px;
   width: 400px;
   height: 200px;
