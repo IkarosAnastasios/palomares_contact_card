@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#wrapper{
+  background-color: silver;
+  width: 970px;
+}
+div{
+  display: inline-block;
+  vertical-align: top;
+}
+#form{
+  display: inline-block;
+  width: 325px;
+  padding: 20px;
+  background-color: blue;
+}
+#form *{
+  margin: 5px;
+}
+#form h3{
+  text-align: center;
+}
+#descr{
+  width: 298px;
+  height: 100px;
+}
+#cards{
+  width: 500px;
+  padding: 25px 50px;
+  background-color: red;
+}
+#cards *{
+  text-align: center;
+}
+#cards div,#cards p{
+  margin: 25px 0px;
+  width: 400px;
+  height: 200px;
+  background-color: white;
+  display: inline-block;
+}
